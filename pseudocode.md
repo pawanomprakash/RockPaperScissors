@@ -1,5 +1,8 @@
 **Pseudocode for RockPapersScisscors game build in C++**:
 -
+Google docs link:
+
+https://docs.google.com/document/d/1sEvZbaNtE7MLz6s-fCQRO80PB82BO8OMsKysjQkJuMg/edit?usp=sharing
 
 - include necessary library files:-
   
@@ -40,6 +43,8 @@ display **"Invalid choice."** and end the program there using **"return 0;"**
 - if playerChoice is **paper** and if compChoice is **rock**, display **"Player wins!"**, else **"Computer wins!"**
 - if playerChoice is **scissors**  and if compChoice is **paper**, display **"PLayer wins!"**, else **"Computer wins!"**
 
-- End of program - return 0 
+- End of program - return 0
+
+
 
   
